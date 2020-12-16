@@ -59,13 +59,13 @@ class CustomBuild(build):
 #############
 # functions #
 #############
-def readme():
-    """
-    read content from README.md file
-    Returns:
-        long description (content of README.md)
-    """
-    return open('./README.md', 'r', encoding='UTF-8').read()
+#def readme():
+#    """
+#    read content from README.md file
+#    Returns:
+#        long description (content of README.md)
+#    """
+#    return open('./README.md', 'r', encoding='UTF-8').read()
 
 
 #########
