@@ -75,7 +75,7 @@ setup(
     name='khaiii',
     version='0.4',
     description='Kakao Hangul Analyzer III',
-    long_description=readme(),
+    #long_description=readme(),
     url='https://github.com/kakao/khaiii',
     author='Kakao Corp.',
     author_email='jamie.lim@kakaocorp.com',
